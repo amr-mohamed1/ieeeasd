@@ -93,15 +93,11 @@
             </div>
     
 
-            <!--fffff-->
+            <!--fffadsfadff-->
             <!--ffadsfsdffff-->
-            <!--asdfa                          <h1 style="text-align:center">Send Message</h1>
-                            <input class="form-control <?php echo $nameerror?>" value="<?php if(!empty($_POST['fullName'])){echo $_POST['fullName'];}?>"  type="text" name="fullName" placeholder="Full Name" autocomplete="off">
-                            <input class="form-control <?php echo $emailerror?>"  value="<?php if(!empty($_POST['email'])){echo $_POST['email'];}?>" type="email" name="email" placeholder="Email" autocomplete="new-password" >
-                            <input class="form-control <?php echo $subjecterror?>"  value="<?php if(!empty($_POST['subject'])){echo $_POST['subject'];}?>" type="text" name="subject" placeholder="Subject" autocomplete="off" >
-                            <textarea name="message"   class="form-control
-            ffdfasdfasdffff-->
-            <!--ffasdfasdfff-->
-            <!--fffasdfasdfff-->
-            <!--ffdfasdfasfdfff-->
-            <!--fadsfasdfasffff-->
+            <!--asdfa-->sdfasfd
+            <!--ffdafaasdfsdfasdfasdfasdfsdfasdffff-->
+            <!--ffasdfaasdfasdfasdfsdfff-->
+            <!--fffasasdfasdfasdfdfasdfdfsafadsfasdfff-->
+            <!--asdfadsf-->
+            <!--a-->

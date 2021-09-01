@@ -1,0 +1,30 @@
+body{
+    height:100vh;
+    background:linear-gradient(to bottom, #0099ff 0%, #fff 100%) no-repeat;
+}
+.container{
+    width: 60%;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 150px auto;
+    font-size: 16px;
+}
+.containerimg{
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+    background: url('../../images/user.png');
+    background-position: center;
+    background-size: cover;
+    margin:  auto;
+    margin-bottom: 20px;
+}
+form .btn{
+    background-color: #0d83d2;
+}
+form .btn:hover {
+    background-color: #0d83d2;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+     rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    }
